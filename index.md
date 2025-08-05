@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # civirat034
 Hello world.
 ## 《零日攻擊》電視劇
