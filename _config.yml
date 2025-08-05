@@ -7,7 +7,13 @@ author: civirat034
 # 其他常用配置
 remote_theme: pages-themes/leap-day@v0.2.0
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# 启用 GitHub Flavored Markdown
+plugins:
+  - jekyll-gfm
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
