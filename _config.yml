@@ -1,11 +1,13 @@
-theme: minima
+#theme: minima
 title: civirat034
 #description: 
 author: civirat034
 #email: 
 
 # 其他常用配置
-#remote_theme: pages-themes/minima@1e8a445
+remote_theme: pages-themes/minima@1e8a445
+markdown: kramdown
+highlighter: rouge
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
