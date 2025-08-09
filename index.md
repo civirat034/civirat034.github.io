@@ -11,8 +11,8 @@ layout: default
 
 | 集数 | 首播日期 | BT |
 |------|----------|----------|
-| 1 戰爭或和平 (War or Peace) | 2025年8月2日 | [download 1](http://bit.ly/4mri17Wt) [download 2](https://tinyurl.com/mvwutk6z)|
-| 2 蛇仔 (Snake Boy) | 2025年8月9日 |  |
+| 1 戰爭或和平 (War or Peace) | 2025年8月2日 | [file](https://tinyurl.com/9zn9jkzh) [link](https://tinyurl.com/2chda2rk)|
+| 2 蛇仔 (Snake Boy) | 2025年8月9日 | [file](https://tinyurl.com/9zn9jkzh) [link](https://tinyurl.com/4ytbv6jy)|
 | 3 OnAir | 2025年8月16日 |  |
 | 4 MIND FUCK | 2025年8月23日 |  |
 | 5 兩岸密屍 | 2025年8月30日 |  |
