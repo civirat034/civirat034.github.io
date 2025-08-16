@@ -13,7 +13,7 @@ layout: default
 |------|----------|----------|
 | 1 戰爭或和平 (War or Peace) | 2025年8月2日 | [file](https://tinyurl.com/9zn9jkzh) [link](https://tinyurl.com/2chda2rk)|
 | 2 蛇仔 (Snake Boy) | 2025年8月9日 | [file](https://tinyurl.com/9zn9jkzh) [link](https://tinyurl.com/4ytbv6jy)|
-| 3 OnAir | 2025年8月16日 |  |
+| 3 OnAir | 2025年8月16日 | [file](https://tinyurl.com/ybza2hht) [link](https://tinyurl.com/y73yvr56)|
 | 4 MIND FUCK | 2025年8月23日 |  |
 | 5 兩岸密屍 | 2025年8月30日 |  |
 | 6 金紙 | 2025年9月6日 |  |
