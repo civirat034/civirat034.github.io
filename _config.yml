@@ -17,3 +17,4 @@ plugins:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
+google_analytics: G-PZ5WK0EK1M
